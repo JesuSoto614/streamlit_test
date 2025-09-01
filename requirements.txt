@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 # created-by: conda 25.5.1
-altair=5.5.0=py313haa95532_0
+altair=5.5.0
 arrow-cpp=19.0.0=h82e8c66_4
 attrs=24.3.0=py313haa95532_0
 aws-c-auth=0.9.0=h827c3e9_1
